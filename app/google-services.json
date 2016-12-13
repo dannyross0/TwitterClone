@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956635135414",
+    "firebase_url": "https://twitterclone-ac46b.firebaseio.com",
+    "project_id": "twitterclone-ac46b",
+    "storage_bucket": "twitterclone-ac46b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956635135414:android:02be7488b4e8a2c4",
+        "android_client_info": {
+          "package_name": "com.example.sankum.ictwt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956635135414-mm1cjml8fdjijs5kurk7l4too5pns62g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sankum.ictwt",
+            "certificate_hash": "497DBAD92106369007E5157350D7D3C3453946D5"
+          }
+        },
+        {
+          "client_id": "956635135414-eas9285ugfrka9hj2l92l98opuu1bipa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIjcE2m6zn4aQJACif14FQbA1ji-39RI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956635135414-eas9285ugfrka9hj2l92l98opuu1bipa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
